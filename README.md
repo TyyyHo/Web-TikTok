@@ -21,8 +21,9 @@ A TikTok-like web application that allows users to create reels or take shots, u
 Remove green screen by WebGL
 ![demo of WebGL](https://github.com/TyyyHo/web-tiktok/blob/main/public/demo/demo.png)
 
-<a href='https://youtube.com/shorts/mtP8NGUhGBo?feature=share'>Demo website</a>
-<a href='https://youtube.com/shorts/mtP8NGUhGBo?feature=share'>Youtube Video</a>
+<a href='https://web-tiktok.vercel.app/'>Demo website</a>
+<br/>
+<a href='https://youtube.com/shorts/mtP8NGUhGBo?feature=share'>Youtube video</a>
 
 <br/>
 
